@@ -1,4 +1,4 @@
-![I am Tanvin Jahan Queen(https://raw.githubusercontent.com/Tanvinqueen/Tanvinqueen/28d9cdd271de6cadf6a9c1e12127c128ac6ea071/code.png)
+![I am Tanvin Jahan Queen(https://raw.githubusercontent.com/28d9cdd271de6cadf6a9c1e12127c128ac6ea071/code.png)
 
 <h1 align="center">Hi 👋, I'm Tanvin Jahan Queen</h1>
 <h3 align="center">Programmer | Web Designer  Speed Learner</h3>
