@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=tanvinqueen&color=red)
 
-Skills: C / Java / BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: C / Java / BOOTSTRAP / REACT / JS / HTML / CSS /TAILWIND
 
 </div>
 
